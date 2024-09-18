@@ -1,2 +1,1 @@
-# HELLO EVERYONE THIS REPOSITORY CONTAINS PROJECTS DONE IN FPGA BOARD -ZYBO Z7-20
-
+<h1 style="color: blue; text-align: center; font-family: Arial;">Custom Styled Title</h1>
