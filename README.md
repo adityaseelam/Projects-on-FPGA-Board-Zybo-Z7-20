@@ -1,3 +1,1 @@
-<h1 style="font-family: 'Times New Roman', Times, serif; font-weight: bold;">
-  Custom Styled Title
-</h1>
+# Hello Everyone This Repository contains Projects which are done in Zybo Z7-20 board
