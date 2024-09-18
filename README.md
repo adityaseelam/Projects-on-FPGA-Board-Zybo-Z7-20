@@ -1,1 +1,1 @@
-## $\textcolor{red}{This\ is\ a\ Big\ Title}$
+## $\textcolor{red}{This\ is\ a Big\ Title}$
